@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "F30eE4n6O5qKZMZTN/VczO+s0yIHypSXxHZ7GNeP2X3UfH9jYqXPs4D2SII/gDLQTTysrtqL0NZuS1Hj+FkGJQ==",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "AzureWebJobs.TimerTrigger1.Disabled": "true",
+    "AzureWebJobs.HttpTrigger1.Disabled": "false"
+  }
+}

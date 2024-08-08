@@ -1,0 +1,23 @@
+{
+    "database": 
+        {
+            "SQL_server"      : "bpp-db-price.database.windows.net",
+			"SQL_database"    : "BPP-DB-PRICE",
+			"SQL_user"        : "bppadmin",
+			"SQL_password"    : "bluepower@2022",
+			"driver"          : "{ODBC Driver 17 for SQL Server}"
+        },
+	"storage_account_key": 
+        {
+            "account_name"    : "bpppricedata",
+			"account_key"     : "NtATyQvjU6mjKChYde+rMWMURERKVSieOyjZfMm5Mk9gpOymLiAG+838kY88sRVkJdAsiRtiJhta+ASt43aeOA=="
+        },
+	"datalake_api_key": 
+        {
+            "tenant_id"    			: "6dbe57d2-fad4-4785-be7f-8e4191d22bd7",
+			"client_id"    			: "201b09ad-16c0-4f84-8a3a-5e74880f2eea",
+			"client_secret"			: "ICL8Q~6c2.qp36WHq5Vi9LbyPUrB2d5CKMgdvajS",
+			"storage_account_name"  : "bpppricedata",
+			"filesystem_name"		: "dataset"
+        }
+}
